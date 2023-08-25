@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> <title>Eba!</title>
+<h1>Parabéns,você concluiu os desafios!
+Está pronto para receber seu prêmio?
+</h1>
+<h2>Tudo que você precisa fazer,é abrir minha mochila. </h2>
+<div class="card">
+<div class="front">
+<p>Nosso amor é canônico</p>
+<div class="back">
+<p>Nosso amor é canônico</p>
+</div>
+</div>
+<br>
+<style>
+img{width:500px;height:500px}
+h1{background-color:#ff00c3;padding:20px}
+a{align-content:center}
+body{align-items:center;text-align:center;align-content:center;background-image:url(https://images2.alphacoders.com/611/611981.jpg);background-size:100%}
+h2{font-family:monospace;padding:5px,5px;background-color:#d68fd6;padding-top:1px;margin-top:2px;margin-left:510px;margin-right:510px;opacity:.5}
+h1{font-family:monospace;padding:5px,5px;background-color:#d1a6c2;padding-top:5px;margin-left:200px;margin-right:200px;opacity:.5;color:purple;font-weight:900;text-shadow:50px}
+p{font-family:Verdana,Geneva,Tahoma,sans-serif;color:#fff}
